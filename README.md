@@ -30,7 +30,8 @@ You guessed too high!
 Guess a number:- 3
 You guessed too low!
 Guess a number:- 4
-  Congratulations! You guessed it in 3 tries.
+
+   Congratulations! You guessed it in 3 tries.
 ```
 
 
